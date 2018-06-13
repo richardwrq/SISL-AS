@@ -15,3 +15,7 @@
 - 修改app/build.gradle
 
 ![修改build.gradle](/pics/4.png)
+
+- 编译项目
+
+![新建项目](/pics/5.png)
